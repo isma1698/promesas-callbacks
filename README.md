@@ -1,6 +1,6 @@
-# Webpack Starter
+# Promesas y callbacks
 
-Este es el proyecto inicial pàra crear aplicaciones utilizando webpack
+Este es el proyecto de promise y callbacks
 
 ### Notas:
 Recuerden reconstruir los modulos de node
